@@ -1,0 +1,5 @@
+let nome = "Camyla Castro Lima"
+let email = "camyla.clima@gmail.com"
+let profissao = "Assistente Administrativo"
+let idade = "32 anos"
+let lugar = "Suécia"
